@@ -9,7 +9,6 @@
 
 
 
-import matplotlib.backends.backend_qt
 
 
 
